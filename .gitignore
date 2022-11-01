@@ -1,0 +1,27 @@
+'#' Ignore objects.
+
+__pycache__/
+
+.vscode/
+
+*.txt
+
+pass.txt
+
+.env
+
+.env/
+
+*.session-journal
+
+*.session
+
+*.ini
+
+./tg_bots/user_bot/
+
+tg_bots/user_bot/
+
+*.session
+my_account.session
+my_account.session-journal
